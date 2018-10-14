@@ -4,6 +4,7 @@ if speed < 40 || speed > 60
   speed
 else 
   puts "Speed is in between 40 and 60"
+  speed
 end
 end
 
